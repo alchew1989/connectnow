@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x33445fA6551412e11c846B1b604787244666d6b5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x33445fA6551412e11c846B1b604787244666d6b5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "RocketsTTM_Rocksolid",
+  "SYMBOL": "RTTM_R",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rocketsttm-rocksolid",
+  "SHOW_BACKGROUND": true
+}
